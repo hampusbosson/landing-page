@@ -1,2 +1,2 @@
 # landing-page
-landing page project using HTML and CSS
+This is a landing page for a website built with HTML and css.
